@@ -1,0 +1,25 @@
+{
+  "name": "mahant-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Professional developer portfolio of Mahant T — certifications, deployed projects, and technical skills.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "framer-motion": "^14.9.1",
+    "lucide-react": "^1.68.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.4",
+    "@vitejs/plugin-react": "^6.2.1",
+    "tailwindcss": "^4.3.4",
+    "vite": "^8.3.5"
+  }
+}
